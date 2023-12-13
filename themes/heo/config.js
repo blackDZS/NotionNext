@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'DZS AI Blog', url: 'https://www.dzs.life/' },
+    { title: "JARVIS's AI 博客, 致力于记录和分享AI技术", url: 'https://www.dzs.life/' },
   ],
 
   // 英雄区(首页顶部大卡)
