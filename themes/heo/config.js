@@ -46,6 +46,9 @@ const CONFIG = {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
+      title_2: 'ChatGPT',
+      img_2: '/images/heo/ChatGPT-logo-with-color-Background.webp',
+      color_2: '#4082c3'
     }
   ],
 
