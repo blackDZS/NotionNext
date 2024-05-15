@@ -19,7 +19,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '技术原理', url: '/tag/技术原理' },
   HEO_HERO_CATEGORY_2: { title: '模型训练与部署', url: '/tag/模型训练与部署' },
-  HEO_HERO_CATEGORY_3: { title: 'RAG应用', url: '/tag/RAG 应用' },
+  HEO_HERO_CATEGORY_3: { title: 'AI应用', url: '/tag/AI应用' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -49,6 +49,14 @@ const CONFIG = {
       title_2: 'ChatGPT',
       img_2: '/images/heo/ChatGPT-logo-with-color-Background.webp',
       color_2: '#4082c3'
+    },
+    {
+      title_1: 'Langchain',
+      img_1: '/images/heo/langchain.webp',
+      color_1: '#eb6840',
+      title_2: 'Llamaindex',
+      img_2: '/images/heo/llamaindex.webp',
+      color_2: '#f29e39'
     }
   ],
 
