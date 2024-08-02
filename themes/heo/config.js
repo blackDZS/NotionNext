@@ -5,21 +5,21 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: "JARVIS's AI 博客", url: 'http://www.dzs.life/' },
+    { title: "Better Using RAG", url: 'http://www.usingrag.com/' },
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享AI技术',
-  HEO_HERO_TITLE_2: '与应用',
-  HEO_HERO_TITLE_3: 'DZS.LIFE',
+  HEO_HERO_TITLE_1: '分享RAG技术',
+  HEO_HERO_TITLE_2: '与应用落地',
+  HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '技术原理', url: '/tag/技术原理' },
-  HEO_HERO_CATEGORY_2: { title: '模型训练与部署', url: '/tag/模型训练与部署' },
-  HEO_HERO_CATEGORY_3: { title: 'AI应用', url: '/tag/AI应用' },
+  HEO_HERO_CATEGORY_2: { title: 'RAG应用搭建', url: '/tag/RAG应用搭建' },
+  HEO_HERO_CATEGORY_3: { title: '应用场景与解决方案', url: '/tag/应用场景与解决方案' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
